@@ -1,0 +1,17 @@
+.main {
+    text-align: center;
+}
+
+.main h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    background: linear-gradient(90deg, #f9572a, #ff8a05);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .main p {
+    color: white;
+  }
+  
